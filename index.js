@@ -26,16 +26,16 @@
 // console.log(isAdult);
 
 //task 6 (7 змінних)
-let num, surname, groop, year, isMarried, x, y;
-num=" vlada";
-surname=" tsvek";
-groop=" a";
-year=93;
-isMarried=true;
-console.log(year + " " + isMarried + num + surname + groop);
-x=null;
-y=undefined;
-console.log(x, y);
+// let num, surname, groop, year, isMarried, x, y;
+// num=" vlada";
+// surname=" tsvek";
+// groop=" a";
+// year=93;
+// isMarried=true;
+// console.log(year + " " + isMarried + num + surname + groop);
+// x=null;
+// y=undefined;
+// console.log(x, y);
 
 //task 7 (логін, імейл та пароль)
 // let login , email , password;
